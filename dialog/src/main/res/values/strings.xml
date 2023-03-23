@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dialog</string>
+    <string name="dialog">Диалог</string>
+    <string name="time">Время</string>
+    <string name="date">Дата</string>
+    <string name="progress">Прогресс</string>
+</resources>
